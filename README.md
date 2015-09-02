@@ -1,0 +1,1 @@
+This is the repository for the Wikipedia Rating Project's website.  To learn more about the project, please visit [http://mjbuckley.github.io/wikipedia-rating-project](http://mjbuckley.github.io/wikipedia-rating-project).
