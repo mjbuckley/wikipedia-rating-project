@@ -38,3 +38,7 @@ The second reason is that by gathering ratings of Wikipedia articles, we are abl
 The main reason to participate in the Wikipedia Rating Project is to help improve the quality of articles on Wikipedia. Wikipedia has a massive readership. Improving the accuracy of Wikipedia articles, even more than popular writing in books and periodicals, can help to publicize the findings of specialized scholarship and have a massive impact on the public understanding.
 
 Furthermore, many faculty members have noted the ways that Wikipedia can be used in the classroom. The Wikipedia Rating Project will dovetail nicely with these efforts by drawing attention to articles that are most in need of revision and improvement, and by making concrete suggestions about those articles (recommended readings, misconceptions, etc.).
+
+### What should a review look like?
+
+Take a look at our [review guidlines](/review-guidelines).
