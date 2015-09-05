@@ -41,4 +41,4 @@ Furthermore, many faculty members have noted the ways that Wikipedia can be used
 
 ### What should a review look like?
 
-Take a look at our [review guidlines](/review-guidelines).
+Take a look at our [review guidlines](review-guidelines).
