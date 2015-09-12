@@ -11,7 +11,7 @@ Rather than serving as centralized location for these reviews, the Wikipedia Rat
 
 ## How it works
 
-The Wikipedia Rating Project works by building on top of the WordPress platform.  The project consists of a plugin and theme that are added to a WordPress site to create a fully functioning reviews site.  WordPress sites are relatively simple to set up, inexpensive to host, and easy for non-technical contributors to understand.  The plugin and theme install in a matter of second and require very little set up.  Download links and more detailed information on the individual components can be found on the site links below.
+The Wikipedia Rating Project works by building on top of the WordPress platform.  The project consists of a plugin and theme that are added to a WordPress site to create a fully functioning reviews site.  WordPress sites are relatively simple to set up, inexpensive to host, and easy for non-technical contributors to understand.  The plugin and theme install in a matter of seconds and require very little set up.  Download links and more detailed information on the individual components can be found on the site links below.
 
 * The [Wikipedia Rating Project Plugin](https://github.com/mjbuckley/wikipedia-rating-project-plugin) site
 * The [Wikipedia Rating Project Theme](https://github.com/mjbuckley/wikipedia-rating-project-theme) site
@@ -31,7 +31,7 @@ Frankly, you should be editing Wikipedia articles. There are many Wikipedia arti
 
 Two reasons. The first reason is that by rating Wikipedia articles, you allow readers to track the quality of Wikipedia articles, and help Wikipedia contributors to improve these articles. We hope that tracking the quality of Wikipedia articles over time will encourage contributors to improve these articles.
 
-The second reason is that by gathering ratings of Wikipedia articles, we are able to see which articles (and which revisions) are of the highest quality. As the Wikipedia Rating Project matures, we will compile a list of the best revisions of Wikipedia articles as a resource for those (like librarians, students, and interested readers) looking for reliable versions of Wikipedia articles.
+The second reason is that by gathering ratings of Wikipedia articles, we are able to see which articles (and which revisions) are of the highest quality. As a Wikipedia Rating Project site matures, it can serve as a resource for those (like librarians, students, and interested readers) looking for reliable versions of Wikipedia articles.
 
 ### Why would I want to participate in the Wikipedia Rating Project?
 
@@ -41,4 +41,4 @@ Furthermore, many faculty members have noted the ways that Wikipedia can be used
 
 ### What should a review look like?
 
-Take a look at our [review guidlines](review-guidelines).
+Take a look at the suggested format in our [review guidlines](review-guidelines).

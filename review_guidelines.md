@@ -6,6 +6,8 @@ permalink: /review-guidelines/
 
 # A Guide to Reviews
 
+*What follows are the suggested guidelines for Wikipedia article reviews.  We think that these guidelines work well and hope that you will consider following them, but nothing in the plugin or theme enforces these guidelines.  If they do not work for you, feel free to disregard them.*
+
 An article review contains two parts: the rating itself and your ‘comment’ on the particular edit of the article. Ratings are explained at length below; comments should be short paragraphs (less than 100 words in most cases) explaining your rating and areas for improvement.  If the problems or misperceptions of an article demand lengthier exposition, feel free to provide a link to an external blog post.
 
 Please note that Wikipedia articles are in a constant state of change and revision. Try to make your comments complete and accurate, but save your deathless prose for some other venue; your comments will go out of date, and perhaps quickly. (Hopefully, they will go out of date because the article is improved in accordance your comments.)
