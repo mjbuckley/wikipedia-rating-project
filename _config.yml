@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Providing the tools for subject area experts to quickly and easily
   rate the reliability and accuracy of Wikipedia articles.
 baseurl: /wikipedia-rating-project
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://mjbuckley.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  mjbuckley
 
