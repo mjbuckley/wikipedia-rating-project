@@ -1,0 +1,1 @@
+The code for the Wikipedia Rating Project website is contained here on the gh-pages branch.  To view the site itself, and to learn more about the project, please visit [http://mjbuckley.github.io/wikipedia-rating-project](http://mjbuckley.github.io/wikipedia-rating-project).
