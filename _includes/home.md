@@ -21,7 +21,7 @@ The Wikipedia Rating Project works by building on top of the WordPress platform.
 
 ### Is there an example of a site in action?
 
-The [Medieval Wikipedia Rating Project](http://www.medievlawikipedia.org) was the impetus for the Wikipedia Rating Project, and it is built with the Wikipedia Rating Project Plugin and Theme.
+The [Medieval Wikipedia Rating Project](http://www.medievalwikipedia.org) was the impetus for the Wikipedia Rating Project, and it is built with the Wikipedia Rating Project Plugin and Theme.
 
 ### Why shouldn’t I just edit Wikipedia itself?
 
